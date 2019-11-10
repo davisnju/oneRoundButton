@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="run">Run detection</string>
+    <string name="processing">Detecting</string>
+    <string name="rerun">Rerun detection</string>
+
+    <string name="detect_go_hint">Click the button above to detect system integrity.</string>
+
+</resources>
